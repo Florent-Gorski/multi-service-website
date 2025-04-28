@@ -203,7 +203,7 @@ const ContactPage = () => {
                       <h3 className="font-medium">Horaires d'ouverture</h3>
                       <p className="text-gray-600">
                         Lundi - Vendredi: 8h00 - 18h00<br />
-                        Samedi: 9h00 - 16h00<br />
+                        Samedi: Fermé<br />
                         Dimanche: Fermé
                       </p>
                     </div>
